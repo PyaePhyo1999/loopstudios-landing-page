@@ -2,8 +2,8 @@
 
 This is a solution to the [Loopstudios landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
 
+## Table of contents
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
@@ -21,8 +21,8 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 Loopstudios landing page challenge on Frontend Mentor.
 
 ### The challenge
-
 Users should be able to:
+
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
@@ -30,8 +30,9 @@ Users should be able to:
 ### Screenshot
 ![Mobile](<Screenshot (62).png>) ![Desktop](<Screenshot (61).png>)
 
+
 ### Links
-- Solution URL: [Add solution URL here](https://github.com/PyaePhyo1999/loopstudios-landing-page)
+- Solution URL: [https://aquamarine-moxie-fb1692.netlify.app/](https://github.com/PyaePhyo1999/loopstudios-landing-page)
 
 ## My process
 I try to used preprocessing css like scss from what I've learned from the -mentor. Firstly, I build this category by category after completing the whole page for desktop version. After that, I adjust UI for mobile device. This is a little bit challenging when building for mobile device especially for mobile menu section.
@@ -52,18 +53,15 @@ I try to used preprocessing css like scss from what I've learned from the -mento
 
 ### Continued development
 
-### Useful resources
 
+### Useful resources
 - [Chatgpt](https://www.chatgpt.com)
 - [Google_font](https://fonts.google.com/) - import any font design from the link 
 
 
-
 ## Author
-
 - Website - [PYAE PHYO MAUNG](https://github.com/PyaePhyo1999)
 - Frontend Mentor - [@PyaePhyo1999](https://www.frontendmentor.io/profile/PyaePhyo1999)
-
 
 
 ## Acknowledgments
